@@ -43,5 +43,39 @@ Web trên sử dụng Koken CMS nên có thể thử upshell dựa trên hướn
 ![image](https://user-images.githubusercontent.com/72652376/125231214-85da9080-e304-11eb-8541-78f52574c0ad.png)
 
 
+Xóa đuôi jpg tại burp
+
+![image](https://user-images.githubusercontent.com/72652376/125243642-8da43000-e318-11eb-9ebb-c1c0e94d8b28.png)
+
+![image](https://user-images.githubusercontent.com/72652376/125243664-94cb3e00-e318-11eb-9053-57492e0e9b0e.png)
+
+![image](https://user-images.githubusercontent.com/72652376/125243795-c17f5580-e318-11eb-8ec7-677d300b0630.png)
+
+Tại kali tiến hành lắng nghe tại port 1234, và thực hiện up shell thành công
+
+Kiểm tra trên 2 thư mục /home tìm kiếm 1 cờ user.txt
+
+![image](https://user-images.githubusercontent.com/72652376/125244252-4cf8e680-e319-11eb-95b9-7a73406c4de2.png)
 
 
+DONE :V
+
+Tìm cách leo thang lên root nữa để kiếm cờ cuối cùng
+
+![image](https://user-images.githubusercontent.com/72652376/125245826-39e71600-e31b-11eb-8188-57ec4ae9f6e8.png)
+
+Có thể thấy dịch vụ php7.2 có SUID, tìm kiếm trên gtfobins thu được https://gtfobins.github.io/gtfobins/php/#sudo
+
+![image](https://user-images.githubusercontent.com/72652376/125246630-399b4a80-e31c-11eb-8718-1507074fc2ae.png)
+
+OKE....!!!
+
+Leo thang đặc quyền thành công
+
+![image](https://user-images.githubusercontent.com/72652376/125246405-f214be80-e31b-11eb-8ed0-cec917cc021c.png)
+
+![image](https://user-images.githubusercontent.com/72652376/125246431-fb059000-e31b-11eb-9308-d5674cf8d492.png)
+
+DONE...
+
+#kid-glitch
